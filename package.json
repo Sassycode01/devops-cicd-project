@@ -1,0 +1,9 @@
+{
+  "name": "devops-cicd-project",
+  "version": "1.0.0",
+  "description": "Containerized deployment using GitHub Actions, Docker, AWS ECR and ECS",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
